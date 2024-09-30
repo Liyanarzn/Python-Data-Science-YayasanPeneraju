@@ -1,0 +1,9 @@
+Car | Driver | Customer | Start date | End date | Rating Status
+ABC123 | Charlie | Lisa | 09-06-2024 | 13-06-2024 | Yes
+ABC123 | Alice | Lisa | 05-06-2024 | 06-06-2024 | No
+GHI789 | Eve | John | 12-06-2024 | 16-06-2024 | No
+GHI789 | David | Mary | 10-06-2024 | 13-06-2024 | No
+XYZ789 | Bob | Mary | 12-06-2024 | 17-06-2024 | No
+XYZ789 | Charlie | Lisa | 13-06-2024 | 16-06-2024 | No
+JKL321 | Charlie | Sarah | 08-06-2024 | 13-06-2024 | No
+DEF456 | Eve | Lisa | 12-06-2024 | 13-06-2024 | No

@@ -1,0 +1,2 @@
+Product|Quantity|Price
+Radio|5|700.0

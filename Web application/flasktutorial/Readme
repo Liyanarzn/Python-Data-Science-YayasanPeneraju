@@ -1,0 +1,9 @@
+Installation and configuration of Virtual Environment and Flask libraries
+
+1) Create a folder called flasktutorial
+2) Open the folder flasktutorial inside the visual studio code
+3) Go to terminal and run the command "pyhton -m venv virtual"
+4)
+5) You can see the virtual environment "cd virtual\scripts"
+6) Type "activate"
+7) Yo

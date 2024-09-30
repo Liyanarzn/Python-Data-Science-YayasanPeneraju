@@ -1,0 +1,2 @@
+{'name': "Television", 'Quantity': 20, 'price': 1455.99}
+{'name': "Computer", 'Quantity': 10, 'price': 1865.99}
